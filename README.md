@@ -9,3 +9,9 @@
 4- Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma template string para incluir o valor do saldo.
 
 5- Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
+
+6- Use o Math.random para gerar qualquer número aleatório e exiba esse número no console.
+
+7- Use o Math.random para gerar um número inteiro entre 1 e 10 e exiba esse número no console.
+
+8- Use o Math.random para gerar um número inteiro entre 1 e 1000 e exiba esse número no console.
